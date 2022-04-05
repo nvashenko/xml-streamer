@@ -1,5 +1,5 @@
 {
-    "name": "tbpixel/xml-streamer",
+    "name": "nvashenko/xml-streamer",
     "description": "Stream XML data and cast types to a provided classmap.",
     "type": "library",
     "license": "MIT",
@@ -11,16 +11,16 @@
     ],
     "autoload": {
         "psr-4": {
-            "TBPixel\\XMLStreamer\\": "src/"
+            "nvashenko\\XMLStreamer\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "TBPixel\\XMLStreamer\\Tests\\": "tests/"
+            "nvashenko\\XMLStreamer\\Tests\\": "tests/"
         }
     },
     "require": {
-        "php": "^7.2",
+        "php": "^7.1",
         "psr/http-message": "^1.0"
     },
     "require-dev": {
