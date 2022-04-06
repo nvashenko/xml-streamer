@@ -11,12 +11,12 @@
     ],
     "autoload": {
         "psr-4": {
-            "nvashenko\\XMLStreamer\\": "src/"
+            "TBPixel\\XMLStreamer\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "nvashenko\\XMLStreamer\\Tests\\": "tests/"
+            "TBPixel\\XMLStreamer\\Tests\\": "tests/"
         }
     },
     "require": {
